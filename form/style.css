@@ -1,5 +1,5 @@
 body {
-    background-image: url('new.jpg');
+    background-image: url('image.jpg');
     background-size: cover; /* Ensure the image covers the entire background */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */

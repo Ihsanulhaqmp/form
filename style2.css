@@ -1,0 +1,41 @@
+.all{
+    width: 100%;
+    height: 800px;
+    background-color: cadetblue;
+}
+
+.card{
+   width: 250px;
+    height: 200px;
+    background-color: aquamarine;
+    position: relative; 
+    left: 50px;
+    display: flex;
+    
+}
+
+
+.card-body{
+    text-align: center;
+    background-color: aliceblue;
+    width: 250px;
+    height: 300px;
+    
+    
+}
+
+.parent1{
+    background-image: url(image.jpg);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parent2{
+    width: 100%;
+    height: 500px;
+    background-color: azure;
+}
